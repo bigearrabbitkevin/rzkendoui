@@ -1,0 +1,27 @@
+---
+name: Kendo UI
+code: rzkendoui
+type: extension
+copyright: http://www.telerik.com
+site: http://www.telerik.com/kendo-ui
+author: http://www.telerik.com
+abstract: Kendo UI
+desc: Kendo UI
+install: >
+  Install through the buildin extension
+license: |
+  Kevin
+releases:
+  2013.2.918:
+    ranzhi:
+      compatible: all
+      incompatible:
+    charge: free
+    date: 2018-4-26
+    conflicts: null
+    depends: null
+    license: ZPL
+    changelog: 1. initial
+    ranzhico:
+      compatible: all
+      incompatible:
